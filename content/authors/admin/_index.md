@@ -14,11 +14,12 @@ organizations:
   url: https://www.vub.be/en 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include modeling human water management and the global water cycle.
+bio: Climate scientist interested in the global water cycle, management and interactions with climate.
 
 # Interests to show in About widget
 interests:
 - Earth System Modeling
+- Land Surface Modeling
 - Climate change impacts 
 - Inland waters
 
@@ -28,12 +29,12 @@ education:
   - course: PhD in Climate Science
     institution: Vrije Universiteit Brussel
     year: ongoing
-  - course: MSc in Geography, specialization Earth and Climate
+  - course: MSc in Geography
     institution: KU Leuven and Vrije Universiteit Brussel
-    year: 2017
+    year: 2015-2017
   - course: BSc in Geography
     institution: KU Leuven
-    year: 2015
+    year: 2012-2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +71,10 @@ email: ""
 highlight_name: true
 ---
 
-Hier komt algemene tekst. 
+I'm a climate scientist, interested in water on land and the interactions between freshwater, human management and climate change. In my research, I employ modelling techniques, ranging from the [Community Earth System Model](https://www.cesm.ucar.edu/), the land model [Community Terrestrial Systems Model](https://www.cesm.ucar.edu/models/cesm2/land/), the river-routing model mizuRoute to impact models from the [ISIMIP project](https://www.isimip.org/).  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+Currently I am obtaining my PhD at the [Department of Hydrology and Hydraulic Engineering](http://www.hydr.vub.ac.be/), Vrije Universiteit Brussel, funded by a personal [PhD fellowship from the Research Foundation Flanders [FWO](https://www.fwo.be/en/). 
+
+In my PhD, I investigated the role of reservoir in a changing climate. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_website.pdf" "newtab" >}}CV{{< /staticref >}}.

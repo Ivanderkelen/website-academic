@@ -1,14 +1,11 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
+widget: blank
 
 # This file represents a page section.
 headless: true
 
-
-# Activate this widget? true/false
-active: true
 
 # Order that this section appears on the page.
 weight: 130
@@ -16,19 +13,31 @@ weight: 130
 title: Contact
 subtitle:
 
-content:
+
+#content:
   # Automatically link email and phone or display as text?
-  autolink: true
-  
+#  autolink: false
+
+
+
+
+
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+    #provider: netlify
+    #formspree:
+     # id:
+    #netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+     # captcha: false
   
 design:
   columns: '2'
 ---
+inne.vanderkelen [at] vub.be
+
+Pleinlaan 2, 
+1050 Brussels, 
+Belgium
+
+<!-- a class="twitter-timeline" data-width="400" data-height="500" data-theme="light" href="https://twitter.com/ivanderkelen?ref_src=twsrc%5Etfw">Tweets by ivanderkelen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script -->

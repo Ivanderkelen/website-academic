@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: News & Outreach
 cms_exclude: true
 
 # View.

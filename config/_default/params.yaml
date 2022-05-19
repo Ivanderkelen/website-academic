@@ -16,44 +16,49 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'https://twitter.com/ivanderkelen'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: inne.vanderkelen [at] vub.be
+#phone: +476 75 90 41
+directions: Department of Hydrology and Hydraulic Engineering, Vrije Universiteit Brussel
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Pleinlaan 2 
+  city: 1050, Brussels, Belgium
+  region: 
+  postcode:
+  country: 
+  country_code: 
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: 50.8225
+  longitude: 4.3984
+#office_hours:
+#appointment_url: 
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: Twitter
+    link: 'https://twitter.com/ivanderkelen'
+  - icon: linkedin
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: LinkedIn
+    link: https://www.linkedin.com/in/inne-vanderkelen/
+ # - #icon: google-scholar
+    #icon_pack: ai
+    #name: Google Scholar
+    #link: https://scholar.google.be/citations?user=CDK0OBAAAAAJ&hl=nl
+  #- #icon: github
+    #icon_pack: fab
+    #name: Github
+    #link: https://github.com/Ivanderkelen
+  #- #icon: researchgate
+    #icon_pack: ai
+    #name: Researchgate
+    #link: https://www.researchgate.net/profile/Inne-Vanderkelen
+
+
+
 
 # Site header
 
@@ -123,14 +128,14 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
-    show_count: true
+    show_count: false
   commento:
     url: ''
 search:
@@ -141,7 +146,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 marketing:
