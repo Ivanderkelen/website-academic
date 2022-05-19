@@ -25,7 +25,7 @@ subtitle:
      # id:
     #netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+    # captcha: false
 
   # Contact details (edit or remove options as required)
   # email: test@example.org
