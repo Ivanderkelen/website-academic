@@ -5,7 +5,6 @@
 
 title: Inne Vanderkelen # Website name
 baseurl: 'innevanderkelen.netlify.app' # Website URL
-copyright: '© {year} Inne Vanderkelen' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
