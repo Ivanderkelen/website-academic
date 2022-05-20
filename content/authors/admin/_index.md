@@ -78,3 +78,5 @@ Currently I am obtaining my PhD at the [Department of Hydrology and Hydraulic En
 In my PhD, I investigated the role of reservoirs in a changing climate. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_website.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+<meta name="google-site-verification" content="3LcHt_Yj7nMzSXDZ5a-n3OPBpiknYCwWDyOUg4sxBlo" />
