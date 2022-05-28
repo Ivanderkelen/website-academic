@@ -15,40 +15,54 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  #autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+  #    captcha: true
 
   # Contact details (edit or remove options as required)
-  # email: test@example.org
+   email: inne.vanderkelen [at] vub.be
+
   # phone: 888 888 88 88
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Stanford
-  #   region: CA
-  #   postcode: '94305'
-  #   country: United States
-  #   country_code: US
-  # coordinates:
-  #   latitude: '37.4275'
-  #   longitude: '-122.1697'
+   address:
+     street: Building T, Pleinlaan 2
+     city: Brussels
+     #region: CA
+     postcode: '1050'
+     country: Brussels
+     #country_code: US
+   coordinates:
+     latitude: '50.82253993197337'
+     longitude: '4.39841894165031'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
-  # contact_links:
-  #   - icon: twitter
-  #     icon_pack: fab
-  #     name: DM Me
-  #     link: 'https://twitter.com/Twitter'
+   contact_links:
+     - icon: twitter
+       icon_pack: fab
+       name: Twitter
+       link: 'https://twitter.com/ivanderkelen'
+     - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+       icon_pack: fas
+       link: https://scholar.google.be/citations?user=CDK0OBAAAAAJ&hl=nl
+       name: Google Scholar
+     - icon: github
+       icon_pack: fab
+       link: https://github.com/Ivanderkelen
+       name: Github
+     - icon: linkedin
+       icon_pack: fab
+       name: LinkedIn
+       link: https://www.linkedin.com/in/inne-vanderkelen/
+
   #   - icon: video
   #     icon_pack: fas
   #     name: Zoom Me
@@ -57,10 +71,6 @@ content:
 design:
   columns: '2'
 ---
-inne.vanderkelen [at] vub.be
 
-Pleinlaan 2, 
-1050 Brussels, 
-Belgium
 
 <!-- a class="twitter-timeline" data-width="400" data-height="500" data-theme="light" href="https://twitter.com/ivanderkelen?ref_src=twsrc%5Etfw">Tweets by ivanderkelen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script -->
