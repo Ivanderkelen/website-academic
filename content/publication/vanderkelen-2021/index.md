@@ -24,7 +24,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Reservoir expansion is implemented as dynamically changing lake area (Vanderkelen et al. 2021)'
   focal_point: ''
   preview_only: false
 
