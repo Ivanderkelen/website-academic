@@ -36,7 +36,7 @@ categories:
 
 
 tags:
-- awards
+- Awards
 ---
 
 Hooray! I won the [Prize Ernest Du Bois](https://www.kbs-frb.be/nl/reservoirs-changing-climate-global-perspective) for my ongoing research on the role of reservoirs in our changing climate. This prize is awarded by the [Koning Boudewijnstichting](https://www.kbs-frb.be/en) to support PhD researchers in their research to water related projects. A big thank you to the Koning Boudewijnstichting for the recognition, and to my supportive supervisors Wim Thiery, Nicole van Lipzig and Ann van Griensven for the support througout my PhD!
