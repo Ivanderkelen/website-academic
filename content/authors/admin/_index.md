@@ -73,9 +73,11 @@ highlight_name: true
 
 I'm a climate scientist, interested in water on land and the interactions between freshwater, human management and climate change. In my research, I employ modelling techniques, ranging from the [Community Earth System Model](https://www.cesm.ucar.edu/), the land model [Community Terrestrial Systems Model](https://www.cesm.ucar.edu/models/cesm2/land/), the river-routing model mizuRoute to impact models from the [ISIMIP project](https://www.isimip.org/).  
 
-Currently I am obtaining my PhD at the [Department of Hydrology and Hydraulic Engineering](http://www.hydr.vub.ac.be/), Vrije Universiteit Brussel, funded by a personal PhD fellowship from the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)). 
+I obtained my PhD at the [Department of Hydrology and Hydraulic Engineering](http://www.hydr.vub.ac.be/), Vrije Universiteit Brussel, funded by a personal PhD fellowship from the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)). 
 
-In my PhD, I investigated the role of reservoirs in a changing climate. 
+In my PhD research, I investigated the role of reservoirs in a changing climate. 
+{{< icon name="download" pack="fas" >}} Check out the PhD thesis {{< staticref "uploads/Vanderkelen_Inne_PhD_Thesis.pdf" "newtab" >}} here {{< /staticref >}}.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_website.pdf" "newtab" >}}CV{{< /staticref >}}.
 
