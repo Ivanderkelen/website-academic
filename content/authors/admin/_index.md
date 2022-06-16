@@ -75,8 +75,7 @@ I'm a climate scientist, interested in water on land and the interactions betwee
 
 I obtained my PhD at the [Department of Hydrology and Hydraulic Engineering](http://www.hydr.vub.ac.be/), Vrije Universiteit Brussel, funded by a personal PhD fellowship from the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)). 
 
-In my PhD research, I investigated the role of reservoirs in a changing climate. 
-{{< icon name="download" pack="fas" >}} Check out the PhD thesis {{< staticref "uploads/Vanderkelen_Inne_PhD_Thesis.pdf" "newtab" >}} here {{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} I investigated the role of reservoirs in a changing climate, download the PhD thesis {{< staticref "uploads/Vanderkelen_Inne_PhD_Thesis.pdf" "newtab" >}} here {{< /staticref >}}.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_website.pdf" "newtab" >}}CV{{< /staticref >}}.
