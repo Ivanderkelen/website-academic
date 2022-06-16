@@ -22,7 +22,7 @@ image:
   caption: ''
   focal_point: ""
   placement: 2
-  preview_only: true
+  preview_only: false
 
 
 authors:
@@ -32,7 +32,7 @@ categories:
 - Awards
 
 tags:
-- awards
+- Awards
 
 ---
 I'm very, very honored to receive the CESM Graduate Student Award from the NCAR - The National Center for Atmospheric Research Climate and Global Dynamics Laboratory, for my PhD work on implementing dams and reservoirs in the Community Earth System Model (CESM).
