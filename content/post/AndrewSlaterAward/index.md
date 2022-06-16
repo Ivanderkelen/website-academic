@@ -31,6 +31,10 @@ authors:
 categories:
 - Awards
 
+
+tags:
+- awards
+
 ---
 
 The Land Model Working Group granted me the Andrew Slater Award for Best Graduate Student performance at the [2021 LMWG Workshop](https://www.cesm.ucar.edu/events/wg-meetings/2021/land.html)! 
