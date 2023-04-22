@@ -27,19 +27,9 @@ content:
   #    captcha: true
 
   # Contact details (edit or remove options as required)
-   email: inne.vanderkelen [at] vub.be
+   email: inne.vanderkelen [at] wyssacademy.org
 
   # phone: 888 888 88 88
-   address:
-     street: Building T, Pleinlaan 2
-     city: Brussels
-     #region: CA
-     postcode: '1050'
-     country: Brussels
-     #country_code: US
-   coordinates:
-     latitude: '50.82253993197337'
-     longitude: '4.39841894165031'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
