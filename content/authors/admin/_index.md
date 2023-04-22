@@ -10,8 +10,8 @@ role: Climate scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Vrije Universiteit Brussel
-  url: https://www.vub.be/en 
+- name: Wyss Academy for Nature at the University of Bern
+  url: https://www.wyssacademy.org/   
 
 # Short bio (displayed in user profile at end of posts)
 bio: Climate scientist interested in the global water cycle, management and interactions with climate.
@@ -19,16 +19,17 @@ bio: Climate scientist interested in the global water cycle, management and inte
 # Interests to show in About widget
 interests:
 - Earth System Modeling
-- Land Surface Modeling
+- Global Water Cycle
+- Nature-based solutions
 - Climate change impacts 
-- Inland waters
+
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Climate Science
     institution: Vrije Universiteit Brussel
-    year: ongoing
+    year: 2022
   - course: MSc in Geography
     institution: KU Leuven and Vrije Universiteit Brussel
     year: 2015-2017
@@ -71,9 +72,13 @@ email: ''
 highlight_name: true
 ---
 
-I'm a climate scientist, interested in water on land and the interactions between freshwater, human management and climate change. In my research, I employ modelling techniques, ranging from the [Community Earth System Model](https://www.cesm.ucar.edu/), the land model [Community Terrestrial Systems Model](https://www.cesm.ucar.edu/models/cesm2/land/), the river-routing model mizuRoute to impact models from the [ISIMIP project](https://www.isimip.org/).  
+I'm a climate scientist, interested in the intersection of climate modelling, extreme events, climate change impacts, water resources, adaptation and nature-based solutions.
 
-I obtained my PhD at the [Department of Hydrology and Hydraulic Engineering](http://www.hydr.vub.ac.be/), Vrije Universiteit Brussel, funded by a personal PhD fellowship from the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), in which I investigated the role of reservoirs in a changing climate.  
+In my research, I employ modelling techniques, ranging from the [Community Earth System Model](https://www.cesm.ucar.edu/), the land model [Community Terrestrial Systems Model](https://www.cesm.ucar.edu/models/cesm2/land/), the river-routing model mizuRoute to impact models from the [ISIMIP project](https://www.isimip.org/).  
+
+At my current postdoctoral position at the [Wyss Academy for Nature at the University of Bern](https://www.wyssacademy.org/) and the [Oeschger Center for Climate Chqnge Research](https://www.oeschger.unibe.ch/), I study the potential hydrological co-benefits of nature-based approaches, which play a key role in climate mitigation and adaptation. My research focuses on investigating the hydrological impact of conservation and restoration projects, and whether such projects can be used to restore the water balance. 
+
+I obtained my PhD at the [Department of Hydrology and Hydraulic Engineering](https://www.hydr.vub.be/), Vrije Universiteit Brussel, funded by a personal PhD fellowship from the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), in which I investigated the role of reservoirs in a changing climate.  
 
 {{< icon name="download" pack="fas" >}} You can find the PhD thesis {{< staticref "uploads/Vanderkelen_Inne_PhD_Thesis.pdf" "newtab" >}} here{{< /staticref >}}.
 
