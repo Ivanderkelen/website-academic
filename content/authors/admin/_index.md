@@ -76,7 +76,7 @@ I'm a climate scientist, interested in the intersection of climate modelling, ex
 
 In my research, I employ modelling techniques, ranging from the [Community Earth System Model](https://www.cesm.ucar.edu/), the land model [Community Terrestrial Systems Model](https://www.cesm.ucar.edu/models/cesm2/land/), the river-routing model mizuRoute to impact models from the [ISIMIP project](https://www.isimip.org/).  
 
-In my postdoctoral position at the [Wyss Academy for Nature at the University of Bern](https://www.wyssacademy.org/) and the [Oeschger Center for Climate Chqnge Research](https://www.oeschger.unibe.ch/), I study the potential hydrological co-benefits of nature-based approaches, which play a key role in climate mitigation and adaptation. My research focuses on investigating the hydrological impact of conservation and restoration projects, and whether such projects can be used to restore the water balance. 
+In my postdoctoral position at the [Wyss Academy for Nature at the University of Bern](https://www.wyssacademy.org/) and the [Oeschger Center for Climate Change Research](https://www.oeschger.unibe.ch/), I study the potential hydrological co-benefits of nature-based approaches, which play a key role in climate mitigation and adaptation. My research focuses on investigating the hydrological impact of conservation and restoration projects, and whether such projects can be used to restore the water balance. 
 
 I obtained my PhD at the [Department of Hydrology and Hydraulic Engineering](https://www.hydr.vub.be/), Vrije Universiteit Brussel, funded by a personal PhD fellowship from the Research Foundation Flanders ([FWO](https://www.fwo.be/en/)), in which I investigated the role of reservoirs in a changing climate.  
 
