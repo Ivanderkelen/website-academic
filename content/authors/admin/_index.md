@@ -10,18 +10,21 @@ role: Climate scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Wyss Academy for Nature at the University of Bern
-  url: https://www.wyssacademy.org/   
+- name: Department of Earth and Environmental Sciences, KU Leuven
+  url: https://ees.kuleuven.be/en
+- name: Royal Meteorological Institute of Belgium (RMIB)
+  url: https://www.meteo.be/en/belgium  
 
 # Short bio (displayed in user profile at end of posts)
-bio: Climate scientist interested in the global water cycle, management and interactions with climate.
+bio: Climate modeller with strong interests in climate extremes, impacts, and adaptation. 
 
 # Interests to show in About widget
 interests:
-- Earth System Modeling
-- Global Water Cycle
-- Nature-Based Solutions
-- Climate Change Impacts 
+- Regional Climate Modelling
+- Climate extremes
+- Climate impacts
+- Adaptation options
+
 
 
 # Education to show in About widget
@@ -72,9 +75,9 @@ email: ''
 highlight_name: true
 ---
 
-I'm a climate scientist, interested in the intersection of climate modelling, extreme events, climate change impacts, water resources, adaptation and nature-based solutions.
+I'm a climate scientist, interested in the intersection of climate modelling, extreme events, climate change impacts, adaptation and nature-based solutions and water resources.
 
-In my research, I employ modelling techniques, ranging from the [Community Earth System Model](https://www.cesm.ucar.edu/), the land model [Community Terrestrial Systems Model](https://www.cesm.ucar.edu/models/cesm2/land/), the river-routing model mizuRoute to impact models from the [ISIMIP project](https://www.isimip.org/).  
+In my research, I employ modelling techniques, like the COSMO-CLM and ALARO regional climate models. In the past I heavily used [Community Earth System Model](https://www.cesm.ucar.edu/), its land model [Community Terrestrial Systems Model](https://www.cesm.ucar.edu/models/cesm2/land/), and the river-routing model mizuRoute as well as impact models from the [ISIMIP project](https://www.isimip.org/).  
 
 In my postdoctoral position at the [Wyss Academy for Nature at the University of Bern](https://www.wyssacademy.org/) and the [Oeschger Center for Climate Change Research](https://www.oeschger.unibe.ch/), I study the potential hydrological co-benefits of nature-based approaches, which play a key role in climate mitigation and adaptation. My research focuses on investigating the hydrological impact of conservation and restoration projects, and whether such projects can be used to restore the water balance. 
 
